@@ -30,6 +30,7 @@ SKALA 4기 AI 서비스 개발 교육 과정에서 구현과 검증을 이어가
 
 ## 대회·다른 작업
 
+- 삼일PwC AX 인재전쟁 ONLINE: 사내 지급 검토 서비스
 - [DACON 영상 라벨링 도구](https://github.com/inwoo-jang/dacon-labeling-tool)
 - [AX 해커톤 트리아지 어드민](https://github.com/inwoo-jang/ax-hackathon-ilgyeong-triage)
 - [7일의 거리](https://github.com/inwoo-jang/dating-game): Unity WebGL 연애 시뮬레이션
